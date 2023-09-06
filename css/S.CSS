@@ -1,0 +1,91 @@
+.divTable{
+    display:table;
+    width: 1024px;
+    font-size: 13pt;
+    font-family: tahoma;
+    margin-left: auto;
+    margin-right: auto;
+    direction: rtl;
+}
+.divTableRow{
+    display:table-row;
+}
+.divTableCell{
+    display: table-cell;
+    border: 1px solid black;
+    padding: 3px 10px;
+	text-decoration: none;
+}
+span{
+	color:blue;
+}
+a:link{
+	Color:rgb(108, 189, 243);
+}
+a:active{
+	Color:red;
+}
+a:visited{
+	Color:black;
+}
+a:hover{
+	Color:purple;
+}
+body{
+	color:black;
+	text-align:center;
+	background-image:url("image/325.jpg"); 
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.section{
+	border-style:solid;
+	border-width:3px;
+	border-color:rgb(22, 21, 21);
+	border-radius:20px;
+}
+span{
+	color:blue;
+}
+a:link{
+	Color:rgb(108, 189, 243);
+}
+a:active{
+	Color:rgb(241, 37, 224);
+}
+a:visited{
+	Color:black;
+}
+a:hover{
+	Color:purple;
+}
+img{
+	border-radius:20px;
+}
+a{
+	cursor:grab;
+}
+a{
+	text-decoration: none;
+}
+.table tr td{
+	margin:14px;
+}
+.a{
+	border-style:solid;
+	border-width:3px;
+	border-color:rgb(22, 21, 21);
+	border-radius:20px;
+}
+.ma{
+	border-style:solid;
+	color: rgb(2, 2, 2);
+	border-radius:20px;
+	padding: 13px;
+    margin: 8px;
+}
+.maa{
+	text-align:center;
+}
